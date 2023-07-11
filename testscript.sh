@@ -4,7 +4,7 @@ echo "this script is from github"
 NUMBER=$(($NUMONE + $NUMTWO))
 echo "$NUMBER"
 echo "this is now working!"
-if [[ $NUM == 23 ]]
+if [[ $NUMBER == 23 ]]
 then
 	echo "This is the best number"
 fi
